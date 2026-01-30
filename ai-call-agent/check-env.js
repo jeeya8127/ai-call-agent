@@ -1,0 +1,1 @@
+require('dotenv').config(); console.log("Telegram Token Loaded:", !!process.env.TELEGRAM_BOT_TOKEN);
